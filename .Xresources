@@ -1,0 +1,23 @@
+! Xterm settings from Carsten Koenig
+!
+! Adjusting the font
+xterm*faceName: Monospace
+xterm*faceSize: 12
+
+! Changing foreground/background color
+xterm*background: #2B1520
+xterm*foreground: #FFFFFF
+
+! Adding a scrollbar on the right side
+xterm*scrollBar: true
+xterm*rightScrollBar: true
+
+! URxvt settings from opensource.com
+urxvt*background: #282828
+urxvt*depth: 32
+urxvt*foreground: #FFFFFF
+
+! URxvt own settings
+urxvt*font: xft:Monospace:size=12
+urxvt*transparent: true
+urxvt*shading: 20
